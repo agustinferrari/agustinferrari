@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">I'm a Software Engineering student</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinferrari&show_icons=true&locale=en&theme=blueberry_duo" alt="agustinferrari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinferrari&show_icons=true&locale=en&theme=blueberry" alt="agustinferrari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinferrari&theme=blueberry_duo" alt="agustinferrari" /></p>
 
