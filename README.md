@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinferrari&theme=blueberry" alt="agustinferrari" /></p>
 
-<p><img align="left" src="https://github-readme-stats-nine-blush.vercel.app/api/top-langs?username=agustinferrari&exclude_repo=github-readme-stats,SEM-7&show_icons=true&locale=en&layout=compact&theme=blueberry&langs_count=10" alt="agustinferrari" /></p>
+<p><img align="left" src="(https://github-readme-stats2-chi.vercel.app/api/top-langs?username=agustinferrari&exclude_repo=github-readme-stats,SEM-7&show_icons=true&locale=en&layout=compact&theme=blueberry&langs_count=10)" alt="agustinferrari" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
